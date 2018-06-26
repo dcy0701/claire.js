@@ -1,0 +1,24 @@
+{
+  "name": "claire",
+  "version": "0.0.1",
+  "description": "react-like library",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/dcy0701/claire"
+  },
+  "keywords": [
+    "react-like",
+    "react",
+    "typescript"
+  ],
+  "author": "dongchongyang@meituan.com",
+  "license": "MIT",
+  "dependencies": {
+    "tslint": "^5.10.0",
+    "tslint-config-airbnb": "^5.9.2"
+  }
+}
