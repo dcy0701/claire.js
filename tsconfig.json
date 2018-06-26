@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    /* Basic Options */
     "target": "es2015",
     "module": "commonjs",
     "lib": [
@@ -10,7 +9,7 @@
       "es2016",
       "scripthost"
     ],
-    "jsx": "preserve",
+    "jsx": "react",
     "strict": true,
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,

@@ -4,7 +4,7 @@
   "description": "react-like library",
   "main": "index.js",
   "scripts": {
-    "test": "null"
+    "demo": "parcel demo/index.html"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,15 @@
   ],
   "author": "dongchongyang@meituan.com",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
+    "@types/react": "^16.4.2",
+    "@types/react-dom": "^16.0.6",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
     "tslint": "^5.10.0",
-    "tslint-config-airbnb": "^5.9.2"
+    "tslint-config-airbnb": "^5.9.2",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
   }
 }
